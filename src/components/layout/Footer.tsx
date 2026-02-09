@@ -43,7 +43,7 @@ export default function Footer({ locale, translations }: FooterProps) {
                 className="h-12 w-auto"
               />
               <div>
-                <span className="text-2xl font-bold text-secondary">RPMS</span>
+                <span className="text-2xl font-bold text-secondary" style={{ fontFamily: 'var(--font-ibm-plex), sans-serif' }}>RPMS</span>
                 <p className="text-xs font-medium tracking-wider text-gray-500">
                   원격전원관리시스템
                 </p>

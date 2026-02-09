@@ -70,7 +70,7 @@ export default function Header({ locale }: HeaderProps) {
                     className="h-8 w-auto transition-transform duration-200 group-hover:scale-105 lg:h-9"
                   />
                   <div className="flex flex-col">
-                    <span className="text-lg font-bold tracking-tight text-secondary lg:text-xl">
+                    <span className="text-lg font-bold tracking-tight text-secondary lg:text-xl" style={{ fontFamily: 'var(--font-ibm-plex), sans-serif' }}>
                       RPMS
                     </span>
                     <span className="hidden text-[10px] font-medium tracking-wider text-gray-500 sm:block">
