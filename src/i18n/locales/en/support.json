@@ -1,0 +1,61 @@
+{
+  "meta": {
+    "title": "Technical Support",
+    "description": "RPMS technical support and downloads page."
+  },
+  "hero": {
+    "title": "Technical Support",
+    "description": "Get the resources and support you need for RPMS"
+  },
+  "downloads": {
+    "title": "Downloads",
+    "description": "Download RPMS software and documentation.",
+    "items": {
+      "software": {
+        "title": "RPMS Software",
+        "description": "RPMS management console installer",
+        "version": "v2.0.0",
+        "button": "Download"
+      },
+      "manual": {
+        "title": "User Manual",
+        "description": "RPMS installation and operation guide",
+        "version": "PDF",
+        "button": "Download"
+      },
+      "datasheet": {
+        "title": "Product Datasheet",
+        "description": "RPMS detailed technical specifications",
+        "version": "PDF",
+        "button": "Download"
+      }
+    }
+  },
+  "faq": {
+    "title": "Frequently Asked Questions",
+    "items": [
+      {
+        "question": "What equipment can RPMS be used with?",
+        "answer": "RPMS can be applied to most equipment using AC/DC power, including servers, network equipment, and industrial machinery."
+      },
+      {
+        "question": "How many devices can be controlled?",
+        "answer": "Up to 32 power modules can be connected to a single controller, and multiple controllers can be managed centrally."
+      },
+      {
+        "question": "What happens if internet connection is lost?",
+        "answer": "Schedules configured on the controller continue to operate locally. Data is automatically synchronized when connection is restored."
+      },
+      {
+        "question": "Can it integrate with existing systems?",
+        "answer": "With REST API and SNMP support, it can integrate with most monitoring systems."
+      }
+    ]
+  },
+  "contact": {
+    "title": "Technical Support Contact",
+    "description": "Contact our technical support team for additional assistance.",
+    "email": "svision@sv2003.com",
+    "phone": "Support Phone"
+  }
+}

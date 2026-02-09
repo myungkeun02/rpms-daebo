@@ -1,0 +1,78 @@
+{
+  "meta": {
+    "title": "RPMS Use Cases",
+    "description": "Explore RPMS applications across various industries."
+  },
+  "hero": {
+    "title": "Use Cases",
+    "description": "See how RPMS is being utilized across various industries"
+  },
+  "cases": {
+    "datacenter": {
+      "title": "Data Centers",
+      "description": "Efficiently manage power for large-scale server racks.",
+      "benefits": [
+        "Per-server power consumption monitoring",
+        "Minimize downtime with remote reboot",
+        "Data collection for PUE improvement",
+        "Trend analysis for capacity planning"
+      ],
+      "result": "15% power cost reduction, 50% MTTR reduction"
+    },
+    "factory": {
+      "title": "Manufacturing",
+      "description": "Centrally control power for production line equipment.",
+      "benefits": [
+        "Automatic power-off during idle time",
+        "Equipment-level utilization analysis",
+        "Anomaly detection for preventive maintenance",
+        "Energy usage optimization"
+      ],
+      "result": "20% energy cost reduction, extended equipment life"
+    },
+    "building": {
+      "title": "Building Management",
+      "description": "Integrated power management for various building facilities.",
+      "benefits": [
+        "Scheduled lighting/HVAC control",
+        "Floor/zone power monitoring",
+        "Peak power management",
+        "Energy savings reports"
+      ],
+      "result": "25% building operation cost reduction"
+    },
+    "telecom": {
+      "title": "Telecom Infrastructure",
+      "description": "Reliable power management for remote telecom equipment.",
+      "benefits": [
+        "Remote management of unmanned base stations",
+        "Automatic recovery sequence after power outage",
+        "Battery backup status monitoring",
+        "24/7 alert system"
+      ],
+      "result": "70% faster incident response time"
+    },
+    "retail": {
+      "title": "Retail/Logistics",
+      "description": "Efficient power management for warehouse and store equipment.",
+      "benefits": [
+        "Refrigeration equipment monitoring",
+        "Business hours-based lighting control",
+        "Continuous security system operation",
+        "Multi-store integrated management"
+      ],
+      "result": "18% power cost reduction"
+    },
+    "research": {
+      "title": "Research Facilities",
+      "description": "Safe power management for precision equipment.",
+      "benefits": [
+        "Sequential equipment startup",
+        "Power quality monitoring",
+        "Instant emergency alerts",
+        "Integration with experiment logs"
+      ],
+      "result": "Zero equipment damage incidents"
+    }
+  }
+}

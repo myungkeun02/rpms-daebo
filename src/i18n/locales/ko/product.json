@@ -1,0 +1,348 @@
+{
+  "meta": {
+    "title": "RPMS 제품 소개",
+    "description": "RPMS 원격전원관리시스템 - 분전반 형태의 통합 전원 관리 솔루션"
+  },
+  "hero": {
+    "title": "RPMS",
+    "subtitle": "Remote Power Management System",
+    "description": "분전반 형태의 통합 원격전원관리시스템으로 VMS, CCTV, 검지기 등 도로/교통 인프라 장비의 전원을 효율적으로 관리합니다."
+  },
+  "overview": {
+    "badge": "SYSTEM OVERVIEW",
+    "title": "시스템 개요",
+    "description": "RPMS는 분전반 형태로 설치되어 연결된 모든 장비의 전원 상태를 실시간으로 모니터링하고, 웹 기반 인터페이스를 통해 원격으로 제어할 수 있는 산업용 전원관리 솔루션입니다.",
+    "highlights": [
+      {
+        "title": "분전반 일체형",
+        "description": "기존 분전반에 통합 설치 가능한 산업용 설계"
+      },
+      {
+        "title": "다채널 포트",
+        "description": "4채널 개별 포트 제어 및 모니터링"
+      },
+      {
+        "title": "웹 기반 관리",
+        "description": "별도 프로그램 없이 웹 브라우저로 접속하여 관리"
+      },
+      {
+        "title": "실시간 감시",
+        "description": "전압, 전류, 온도 등 상태값 실시간 수집"
+      }
+    ]
+  },
+  "features": {
+    "badge": "KEY FEATURES",
+    "title": "주요 기능",
+    "description": "RPMS는 웹 기반 인터페이스를 통해 다양한 관리 기능을 제공합니다.",
+    "items": [
+      {
+        "key": "remoteControl",
+        "title": "원격 전원 제어",
+        "description": "웹 브라우저를 통해 각 포트의 전원을 원격으로 On/Off 제어합니다.",
+        "details": [
+          "개별 포트 전원 제어",
+          "그룹 단위 일괄 제어",
+          "순차적 전원 On/Off (Power Sequencing)",
+          "비상 전원 차단"
+        ]
+      },
+      {
+        "key": "monitoring",
+        "title": "실시간 모니터링",
+        "description": "각 포트의 전압, 전류, 온도 등 상태값을 실시간으로 수집하고 표시합니다.",
+        "details": [
+          "포트별 전압/전류 상태",
+          "장비 내부 온도",
+          "전원 On/Off 상태",
+          "이상 상태 표시"
+        ]
+      },
+      {
+        "key": "threshold",
+        "title": "임계값 설정",
+        "description": "전압, 전류, 온도의 임계값을 설정하여 이상 상황을 사전에 감지합니다.",
+        "details": [
+          "전압 상한/하한 임계값",
+          "전류 과부하 임계값",
+          "온도 과열 임계값",
+          "임계값 초과 시 알림"
+        ]
+      },
+      {
+        "key": "alerts",
+        "title": "알림 시스템",
+        "description": "임계값 초과, 전원 이상 등 이벤트 발생 시 즉시 알림을 받습니다.",
+        "details": [
+          "SNMP Trap 전송",
+          "이벤트 로그 기록",
+          "상태 변경 알림",
+          "연동 시스템 통보"
+        ]
+      },
+      {
+        "key": "logging",
+        "title": "이력 관리",
+        "description": "모든 전원 제어 이력과 상태 변화를 기록하여 추적 관리합니다.",
+        "details": [
+          "전원 제어 이력",
+          "상태 변화 로그",
+          "알림 발생 이력",
+          "사용자 접근 기록"
+        ]
+      },
+      {
+        "key": "integration",
+        "title": "시스템 연동",
+        "description": "SNMP, HTTP 등 표준 프로토콜을 통해 상위 관제 시스템과 연동합니다.",
+        "details": [
+          "SNMP v2c/v3 지원",
+          "HTTP REST API",
+          "TCP/IP 소켓 통신",
+          "중앙 관제 시스템 연동"
+        ]
+      }
+    ]
+  },
+  "software": {
+    "badge": "WEB INTERFACE",
+    "title": "웹 관리 인터페이스",
+    "description": "별도의 프로그램 설치 없이 웹 브라우저에서 모든 기능을 이용할 수 있습니다.",
+    "dashboard": {
+      "title": "RPMS Dashboard",
+      "description": "전체 시스템 상태를 한눈에 파악할 수 있는 직관적인 대시보드",
+      "url": "rpms.dbcs.co.kr/dashboard"
+    },
+    "sidebar": {
+      "title": "RPMS",
+      "subtitle": "원격 전원 관리 시스템",
+      "dashboard": "대시보드",
+      "devices": "장비 목록",
+      "monitoring": "실시간 모니터링",
+      "events": "이벤트 로그",
+      "settings": "설정",
+      "admin": "관리자",
+      "adminRole": "시스템 관리자"
+    },
+    "welcome": {
+      "hq": "서울본부",
+      "user": "관리자 님",
+      "greeting": "RPMS에 오신 것을 환영합니다",
+      "connected": "실시간 연결"
+    },
+    "hqStatus": {
+      "title": "본부별 장비 현황",
+      "totalLabel": "전체 장비",
+      "items": [
+        { "name": "서울본부", "online": 12, "total": 12 },
+        { "name": "대전본부", "online": 8, "total": 9 },
+        { "name": "대구본부", "online": 6, "total": 7 },
+        { "name": "부산본부", "online": 5, "total": 5 },
+        { "name": "광주본부", "online": 4, "total": 4 }
+      ]
+    },
+    "mapView": {
+      "title": "장비 위치",
+      "online": "온라인",
+      "offline": "오프라인",
+      "unit": "대"
+    },
+    "treeView": {
+      "title": "장비 목록",
+      "online": "온라인",
+      "offline": "오프라인",
+      "headquarters": [
+        {
+          "name": "서울본부",
+          "branches": [
+            {
+              "name": "서울지사",
+              "devices": [
+                { "id": "RPMS-001", "online": true },
+                { "id": "RPMS-002", "online": true },
+                { "id": "RPMS-003", "online": true }
+              ]
+            },
+            {
+              "name": "경기지사",
+              "devices": [
+                { "id": "RPMS-004", "online": true },
+                { "id": "RPMS-005", "online": true }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "대전본부",
+          "branches": [
+            {
+              "name": "대전지사",
+              "devices": [
+                { "id": "RPMS-006", "online": true },
+                { "id": "RPMS-007", "online": false },
+                { "id": "RPMS-008", "online": true }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "대구본부",
+          "branches": [
+            {
+              "name": "대구지사",
+              "devices": [
+                { "id": "RPMS-009", "online": true },
+                { "id": "RPMS-010", "online": true },
+                { "id": "RPMS-011", "online": true },
+                { "id": "RPMS-012", "online": false }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "portMonitor": {
+      "title": "포트 모니터링",
+      "voltage": "전압",
+      "current": "전류",
+      "temperature": "온도",
+      "power": "전원",
+      "allOn": "전체 ON",
+      "allOff": "전체 OFF",
+      "ports": [
+        { "voltage": "222.2", "current": "3.08", "temp": "28.8", "status": "ON" },
+        { "voltage": "221.7", "current": "1.18", "temp": "25.9", "status": "ON" },
+        { "voltage": "226.0", "current": "1.09", "temp": "27.9", "status": "ON" },
+        { "voltage": "225.6", "current": "2.31", "temp": "37.0", "status": "ON" }
+      ]
+    },
+    "eventLog": {
+      "title": "이벤트 로그",
+      "total": "총 1,247개 이벤트",
+      "columns": {
+        "time": "시간",
+        "type": "유형",
+        "device": "장비",
+        "hq": "본부",
+        "message": "메시지"
+      },
+      "events": [
+        { "time": "14:23:15", "type": "전원 상태", "typeKey": "power", "device": "RPMS-001", "hq": "서울본부", "message": "Port 1 전원 ON" },
+        { "time": "14:22:48", "type": "온도 알람", "typeKey": "temp", "device": "RPMS-007", "hq": "대전본부", "message": "온도 45.2°C 임계값 초과" },
+        { "time": "14:21:33", "type": "연결 끊김", "typeKey": "offline", "device": "RPMS-012", "hq": "대구본부", "message": "장비 연결 끊김" },
+        { "time": "14:20:17", "type": "상태 보고", "typeKey": "status", "device": "RPMS-003", "hq": "서울본부", "message": "정상 상태 보고" },
+        { "time": "14:19:55", "type": "전원 상태", "typeKey": "power", "device": "RPMS-005", "hq": "서울본부", "message": "Port 3 전원 OFF" },
+        { "time": "14:18:42", "type": "연결 복구", "typeKey": "online", "device": "RPMS-012", "hq": "대구본부", "message": "장비 연결 복구" }
+      ],
+      "pagination": "1 - 20 / 1,247"
+    },
+    "deviceListView": {
+      "title": "장비 목록",
+      "total": "총 37대",
+      "addDevice": "장비 추가",
+      "columns": { "hq": "본부", "branch": "지사", "deviceId": "장비 ID", "name": "장비명", "status": "상태", "ip": "IP 주소" },
+      "devices": [
+        { "hq": "서울본부", "branch": "서울지사", "id": "RPMS-001", "name": "강남 VMS", "online": true, "ip": "192.168.1.101" },
+        { "hq": "서울본부", "branch": "서울지사", "id": "RPMS-002", "name": "서초 CCTV", "online": true, "ip": "192.168.1.102" },
+        { "hq": "서울본부", "branch": "서울지사", "id": "RPMS-003", "name": "송파 검지기", "online": true, "ip": "192.168.1.103" },
+        { "hq": "서울본부", "branch": "경기지사", "id": "RPMS-004", "name": "수원 VMS", "online": true, "ip": "192.168.2.101" },
+        { "hq": "서울본부", "branch": "경기지사", "id": "RPMS-005", "name": "성남 CCTV", "online": true, "ip": "192.168.2.102" },
+        { "hq": "대전본부", "branch": "대전지사", "id": "RPMS-006", "name": "유성 VMS", "online": true, "ip": "192.168.3.101" },
+        { "hq": "대전본부", "branch": "대전지사", "id": "RPMS-007", "name": "대덕 CCTV", "online": false, "ip": "192.168.3.102" },
+        { "hq": "대구본부", "branch": "대구지사", "id": "RPMS-009", "name": "수성 VMS", "online": true, "ip": "192.168.4.101" },
+        { "hq": "대구본부", "branch": "대구지사", "id": "RPMS-012", "name": "달서 검지기", "online": false, "ip": "192.168.4.104" }
+      ]
+    },
+    "monitoringView": {
+      "title": "실시간 모니터링",
+      "selectedDevice": "RPMS-001 · 강남 VMS",
+      "sensors": {
+        "tempLabel": "온도",
+        "tempValue": "28.8°C",
+        "voltageLabel": "전압 범위",
+        "voltageValue": "221.7 ~ 226.0V",
+        "currentLabel": "총 전류",
+        "currentValue": "7.66A"
+      },
+      "offlineTitle": "오프라인 장비",
+      "offlineDesc": "현재 연결이 끊긴 장비",
+      "offlineDevices": [
+        { "id": "RPMS-007", "name": "대덕 CCTV", "lastSeen": "14:15:30" },
+        { "id": "RPMS-012", "name": "달서 검지기", "lastSeen": "13:45:12" }
+      ]
+    },
+    "settingsView": {
+      "title": "설정",
+      "tabs": { "system": "시스템", "notifications": "알림", "display": "표시" },
+      "system": {
+        "title": "장비 연결 설정",
+        "pendingTimeout": "대기 타임아웃",
+        "pendingValue": "30초",
+        "pollingInterval": "상태 폴링 주기",
+        "pollingValue": "5초",
+        "allowUnregistered": "미등록 장비 허용"
+      },
+      "notifications": {
+        "title": "알림 설정",
+        "eventModal": "이벤트 모달 표시",
+        "alarmSound": "알람 사운드",
+        "volume": "볼륨",
+        "volumeValue": "80%"
+      },
+      "display": {
+        "title": "표시 설정",
+        "pageSize": "이벤트 로그 페이지 크기",
+        "pageSizeValue": "20",
+        "dashboardEvents": "대시보드 이벤트 수",
+        "dashboardEventsValue": "10"
+      }
+    },
+    "capabilities": [
+      {
+        "title": "실시간 상태 조회",
+        "description": "각 포트의 전압, 전류, 온도, 전원 상태를 실시간으로 확인"
+      },
+      {
+        "title": "원격 제어",
+        "description": "웹에서 직접 포트별 전원 On/Off 제어"
+      },
+      {
+        "title": "임계값 재설정",
+        "description": "운영 중에도 전압/전류/온도 임계값 변경 가능"
+      },
+      {
+        "title": "이력 조회",
+        "description": "전원 제어 이력 및 이벤트 로그 조회"
+      }
+    ],
+    "note": "내부 네트워크 전용 - 보안을 위해 사설망 내에서만 접속 가능합니다."
+  },
+  "applications": {
+    "badge": "APPLICATIONS",
+    "title": "적용 분야",
+    "description": "RPMS는 다양한 도로/교통 인프라 장비의 전원 관리에 활용됩니다.",
+    "items": [
+      {
+        "title": "VMS (가변정보표시판)",
+        "description": "도로 전광판의 전원 상태 모니터링 및 원격 제어"
+      },
+      {
+        "title": "CCTV 카메라",
+        "description": "교통 감시용 CCTV 장비의 전원 관리"
+      },
+      {
+        "title": "차량 검지기",
+        "description": "레이더/루프식 차량 검지기 전원 관리"
+      },
+      {
+        "title": "통신 장비",
+        "description": "네트워크 장비 및 통신 설비 전원 관리"
+      }
+    ]
+  },
+  "cta": {
+    "title": "RPMS 도입 문의",
+    "description": "현장 환경에 맞는 맞춤형 솔루션을 제안해 드립니다.",
+    "button": "문의하기"
+  }
+}

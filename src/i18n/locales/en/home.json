@@ -1,0 +1,110 @@
+{
+  "whatIsRPMS": {
+    "badge": "What is RPMS?",
+    "title": "Remote Power Management System",
+    "subtitle": "Remote Power Management System",
+    "description": "RPMS is a specialized solution for remotely monitoring and controlling power of various equipment at highway ITS (Intelligent Transportation System) sites. It consists of panel-type hardware and web-based management software.",
+    "highlights": {
+      "hardware": {
+        "title": "Panel-type Hardware",
+        "description": "Up to 8 AC output ports, built-in circuit breaker per port, voltage/current/temperature sensors"
+      },
+      "software": {
+        "title": "Web-based Management Software",
+        "description": "Real-time monitoring dashboard, remote power control, event logging and notifications"
+      },
+      "protocol": {
+        "title": "Dedicated Communication Protocol",
+        "description": "TCP/IP-based real-time bidirectional communication, Keep-Alive session maintenance"
+      }
+    },
+    "targetEquipment": "Target Equipment",
+    "equipment": ["VMS (Variable Message Signs)", "CCTV Cameras", "Vehicle Detectors", "Communication Equipment"]
+  },
+  "hero": {
+    "title": "Remote Power Management for Highway ITS Equipment",
+    "subtitle": "RPMS - Remote Power Management System",
+    "description": "Remotely monitor and control power for VMS, CCTV, detectors, and other Intelligent Transportation System (ITS) equipment on highways. Maximize equipment uptime with real-time voltage/current monitoring and threshold alarms.",
+    "cta": {
+      "primary": "View Product Details",
+      "secondary": "Watch Demo"
+    }
+  },
+  "features": {
+    "title": "Key Features",
+    "subtitle": "From real-time monitoring to remote control, powerful RPMS capabilities",
+    "items": {
+      "remoteControl": {
+        "title": "Per-Port Remote Control",
+        "description": "Individual port ON/OFF or batch control from web dashboard. Instant power cutoff in emergencies."
+      },
+      "monitoring": {
+        "title": "Real-time Status Monitoring",
+        "description": "Live streaming of per-port voltage (V), current (A), and power status. Device temperature at a glance."
+      },
+      "scheduling": {
+        "title": "Threshold Settings & Alarms",
+        "description": "Set temperature, voltage, and current thresholds. Automatic alarms when exceeded for immediate response."
+      },
+      "alerts": {
+        "title": "Event Logging & Notifications",
+        "description": "Record all events including power cutoffs, temperature/voltage/current anomalies. Real-time alerts for quick response."
+      },
+      "security": {
+        "title": "TCP/IP Real-time Communication",
+        "description": "Stable bidirectional communication with dedicated protocol (v2.2). Keep-Alive for session maintenance."
+      },
+      "performance": {
+        "title": "Multi-Port Support",
+        "description": "Up to 8 ports supported. 4-port and 1-port models available. Independent control and monitoring per port."
+      }
+    }
+  },
+  "stats": {
+    "title": "Proven Performance",
+    "uptime": "System Uptime",
+    "sites": "Installed Sites",
+    "devices": "Managed Devices",
+    "support": "Technical Support"
+  },
+  "useCases": {
+    "title": "ITS Equipment Applications",
+    "subtitle": "Field-proven remote power management solution for highways",
+    "items": {
+      "datacenter": "VMS (Variable Message Signs)",
+      "factory": "CCTV Cameras",
+      "building": "Vehicle Detectors",
+      "telecom": "Communication Equipment"
+    },
+    "viewAll": "View All Use Cases"
+  },
+  "cta": {
+    "title": "Contact Us About RPMS",
+    "description": "We'll propose a remote power management solution optimized for your ITS site.",
+    "button": "Request Free Consultation",
+    "phoneLabel": "Call Us",
+    "emailLabel": "Email Us"
+  },
+  "hardware": {
+    "title": "Hardware Specs",
+    "subtitle": "Robust panel-type design",
+    "specs": {
+      "ports": "Up to 8 AC output ports",
+      "voltage": "AC 220V / 60Hz",
+      "monitoring": "Per-port voltage/current sensors",
+      "temperature": "Internal temperature sensor",
+      "breaker": "Built-in circuit breaker per port",
+      "communication": "TCP/IP communication (Ethernet)"
+    }
+  },
+  "protocol": {
+    "title": "Communication Protocol",
+    "subtitle": "Stable real-time bidirectional communication",
+    "features": {
+      "realtime": "Real-time status polling (60s interval)",
+      "keepalive": "Keep-Alive session maintenance",
+      "events": "Event-based instant notifications",
+      "control": "Remote control command response"
+    }
+  }
+}

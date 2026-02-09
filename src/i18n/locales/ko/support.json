@@ -1,0 +1,61 @@
+{
+  "meta": {
+    "title": "기술지원",
+    "description": "RPMS 기술지원 및 다운로드 페이지입니다."
+  },
+  "hero": {
+    "title": "기술지원",
+    "description": "RPMS 사용에 필요한 자료와 지원을 받으세요"
+  },
+  "downloads": {
+    "title": "다운로드",
+    "description": "RPMS 관련 소프트웨어 및 문서를 다운로드하세요.",
+    "items": {
+      "software": {
+        "title": "RPMS 소프트웨어",
+        "description": "RPMS 관리 콘솔 설치 파일",
+        "version": "v2.0.0",
+        "button": "다운로드"
+      },
+      "manual": {
+        "title": "사용자 매뉴얼",
+        "description": "RPMS 설치 및 운영 가이드",
+        "version": "PDF",
+        "button": "다운로드"
+      },
+      "datasheet": {
+        "title": "제품 데이터시트",
+        "description": "RPMS 상세 기술 사양서",
+        "version": "PDF",
+        "button": "다운로드"
+      }
+    }
+  },
+  "faq": {
+    "title": "자주 묻는 질문",
+    "items": [
+      {
+        "question": "RPMS는 어떤 장비에 사용할 수 있나요?",
+        "answer": "RPMS는 서버, 네트워크 장비, 산업용 장비 등 AC/DC 전원을 사용하는 대부분의 장비에 적용할 수 있습니다."
+      },
+      {
+        "question": "최대 몇 개의 장비를 제어할 수 있나요?",
+        "answer": "하나의 컨트롤러에 최대 32개의 전원 모듈을 연결할 수 있으며, 여러 컨트롤러를 통합 관리할 수 있습니다."
+      },
+      {
+        "question": "인터넷 연결이 끊기면 어떻게 되나요?",
+        "answer": "컨트롤러에 설정된 스케줄은 로컬에서 계속 동작합니다. 연결이 복구되면 자동으로 데이터가 동기화됩니다."
+      },
+      {
+        "question": "기존 시스템과 연동이 가능한가요?",
+        "answer": "REST API와 SNMP를 지원하여 대부분의 모니터링 시스템과 연동할 수 있습니다."
+      }
+    ]
+  },
+  "contact": {
+    "title": "기술지원 문의",
+    "description": "추가 지원이 필요하시면 기술지원팀에 문의해 주세요.",
+    "email": "svision@sv2003.com",
+    "phone": "기술지원 전화"
+  }
+}

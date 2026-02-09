@@ -1,0 +1,22 @@
+{
+  "meta": {
+    "title": "문의하기",
+    "description": "대보정보통신에 대해 궁금한 점이 있으시면 문의해 주세요."
+  },
+  "hero": {
+    "title": "문의하기",
+    "description": "대보정보통신에 대해 궁금한 점이 있으시면 언제든지 문의해 주세요"
+  },
+  "info": {
+    "title": "연락처 정보",
+    "address": "주소",
+    "phone": "전화",
+    "email": "이메일",
+    "fax": "팩스",
+    "hours": "영업시간",
+    "hoursValue": "평일 09:00 - 18:00"
+  },
+  "location": {
+    "title": "오시는 길"
+  }
+}

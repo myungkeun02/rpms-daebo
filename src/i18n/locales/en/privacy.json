@@ -1,0 +1,76 @@
+{
+  "meta": {
+    "title": "Privacy Policy",
+    "description": "DBCS Co., Ltd. Privacy Policy"
+  },
+  "title": "Privacy Policy",
+  "intro": "DBCS Co., Ltd. (hereinafter referred to as 'the Company') highly values the protection of members' personal information and complies with the 'Act on Promotion of Information and Communications Network Utilization and Information Protection', Telecommunications Business Act, and Protection of Communications Secrets Act.",
+  "description": "The Company has established a personal information handling policy to protect members' personal information and discloses it on the website to inform members about how their personal information provided online is used and what measures are taken to protect it.",
+  "toc": {
+    "title": "The Company's personal information handling policy includes the following:",
+    "items": [
+      "Personal information items collected and collection methods",
+      "Purpose of collection and use of personal information",
+      "Retention and use period of collected personal information",
+      "Sharing and provision of collected personal information",
+      "Entrustment of collected personal information",
+      "Procedure and method of destroying personal information",
+      "Rights of users and legal representatives and how to exercise them",
+      "Matters regarding installation, operation and rejection of automatic personal information collection devices",
+      "Technical and administrative protection measures for personal information",
+      "Personal information manager and contact information",
+      "Personal information-related reports and dispute resolution",
+      "Duty of notification"
+    ]
+  },
+  "sections": [
+    {
+      "title": "Personal Information Items Collected",
+      "content": "The Company collects the following personal information for membership registration, consultation, and service applications.",
+      "items": [
+        "Items collected: Name, Login ID, Password, Mobile phone number, Email, Resident registration number, Event date",
+        "Collection method: Website (membership registration)"
+      ]
+    },
+    {
+      "title": "Purpose of Collection and Use",
+      "content": "The Company uses the collected personal information for the following purposes.",
+      "items": [
+        "Contract fulfillment for service provision and content provision according to service charges",
+        "Member management: Identity verification for membership service use, personal identification, prevention of unauthorized use by bad members, confirmation of intent to join, age verification, confirmation of legal representative consent when collecting personal information of children under 14, handling complaints and grievances, delivery of notices",
+        "Marketing and advertising: Development and specialization of new services (products), delivery of advertising information such as events, service provision and advertising based on demographic characteristics"
+      ]
+    },
+    {
+      "title": "Retention and Use Period",
+      "content": "The Company destroys the relevant information without delay after the purpose of collecting and using personal information has been achieved.",
+      "items": []
+    }
+  ],
+  "contact": {
+    "title": "Personal Information Inquiries",
+    "content": "You can report all personal information protection-related complaints arising from using the Company's services to the personal information manager or relevant department. The Company will promptly provide sufficient responses to user reports.",
+    "agencies": [
+      {
+        "name": "Personal Information Infringement Report Center",
+        "url": "privacy.kisa.or.kr",
+        "phone": "118"
+      },
+      {
+        "name": "Personal Information Dispute Mediation Committee",
+        "url": "www.kopico.go.kr",
+        "phone": "1833-6972"
+      },
+      {
+        "name": "Supreme Prosecutors' Office Internet Crime Investigation",
+        "url": "www.spo.go.kr",
+        "phone": "02-3480-3573"
+      },
+      {
+        "name": "National Police Agency Cyber Bureau",
+        "url": "cyberbureau.police.go.kr",
+        "phone": "182"
+      }
+    ]
+  }
+}

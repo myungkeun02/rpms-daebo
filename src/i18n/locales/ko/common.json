@@ -1,0 +1,44 @@
+{
+  "nav": {
+    "home": "HOME",
+    "product": "PRODUCT",
+    "features": "FEATURES",
+    "specs": "SPECS",
+    "useCases": "USE CASES",
+    "about": "ABOUT US",
+    "contact": "CONTACT",
+    "support": "SUPPORT"
+  },
+  "product": {
+    "name": "RPMS",
+    "fullName": "원격전원관리시스템",
+    "description": "RPMS는 원격으로 전원을 관리하고 모니터링할 수 있는 혁신적인 원격전원관리시스템입니다."
+  },
+  "company": {
+    "website": "대보정보통신 홈페이지",
+    "address": "서울시 강남구 광평로 280 로즈데일 빌딩 6층",
+    "mapTitle": "대보정보통신 위치 - 서울시 강남구 광평로 280 로즈데일 빌딩 6층"
+  },
+  "footer": {
+    "company": "회사 정보",
+    "product": "제품",
+    "support": "고객지원",
+    "legal": "법적 고지",
+    "privacy": "개인정보처리방침",
+    "terms": "이용약관",
+    "copyright": "COPYRIGHT© 2018 DBCS. ALL RIGHT RESERVED."
+  },
+  "cta": {
+    "learnMore": "자세히 보기",
+    "getStarted": "시작하기",
+    "contact": "문의하기",
+    "download": "다운로드"
+  },
+  "language": {
+    "ko": "한국어",
+    "en": "English"
+  },
+  "accessibility": {
+    "openMenu": "메뉴 열기"
+  }
+}

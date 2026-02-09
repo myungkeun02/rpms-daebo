@@ -1,0 +1,84 @@
+{
+  "meta": {
+    "title": "RPMS 기술 사양",
+    "description": "RPMS 원격전원관리시스템의 상세 기술 사양"
+  },
+  "hero": {
+    "badge": "SPECIFICATIONS",
+    "title": "기술 사양",
+    "description": "RPMS 원격전원관리시스템의 상세 스펙을 확인하세요"
+  },
+  "unit": {
+    "badge": "RPMS UNIT",
+    "title": "RPMS 유닛 사양",
+    "description": "분전반 일체형 원격전원관리 장비",
+    "specs": [
+      { "label": "채널 수", "value": "4포트" },
+      { "label": "네트워크", "value": "Ethernet 10/100Mbps" },
+      { "label": "프로토콜", "value": "SNMP, HTTP, TCP/IP" },
+      { "label": "웹 인터페이스", "value": "내장 웹서버" },
+      { "label": "설치 방식", "value": "분전반 내장형" }
+    ],
+    "sensors": {
+      "title": "내장 센서",
+      "items": [
+        { "name": "온도 센서", "description": "장비 내부 온도 측정" },
+        { "name": "전압 센서", "description": "포트별 전압 모니터링" },
+        { "name": "전류 센서", "description": "포트별 전류 측정" }
+      ]
+    }
+  },
+  "electrical": {
+    "badge": "ELECTRICAL",
+    "title": "전기적 특성",
+    "description": "전원 입력 및 출력 사양",
+    "specs": [
+      { "label": "입력 전압", "value": "AC 220V / DC 12-48V" },
+      { "label": "최대 전류", "value": "포트당 16A" },
+      { "label": "최대 전력", "value": "3,520W (AC 220V 기준)" }
+    ],
+    "protection": {
+      "title": "보호 기능",
+      "items": [
+        "과전류 보호",
+        "과전압 보호",
+        "과열 보호",
+        "서지 보호"
+      ]
+    }
+  },
+  "physical": {
+    "badge": "PHYSICAL",
+    "title": "물리적 사양",
+    "description": "크기, 무게 및 환경 조건",
+    "specs": [
+      { "label": "크기", "value": "추후 업데이트" },
+      { "label": "무게", "value": "추후 업데이트" },
+      { "label": "동작 온도", "value": "-20°C ~ 60°C" },
+      { "label": "보관 온도", "value": "-40°C ~ 85°C" },
+      { "label": "습도", "value": "10% ~ 90% (비응결)" }
+    ]
+  },
+  "protocol": {
+    "badge": "PROTOCOL",
+    "title": "통신 프로토콜",
+    "description": "지원되는 통신 규격 및 연동 방식",
+    "items": [
+      {
+        "name": "SNMP",
+        "version": "v2c / v3",
+        "description": "네트워크 관리 프로토콜을 통한 상태 조회 및 제어"
+      },
+      {
+        "name": "HTTP",
+        "version": "REST API",
+        "description": "웹 기반 인터페이스 및 시스템 연동"
+      },
+      {
+        "name": "TCP/IP",
+        "version": "Socket",
+        "description": "직접 소켓 통신을 통한 실시간 데이터 교환"
+      }
+    ]
+  }
+}

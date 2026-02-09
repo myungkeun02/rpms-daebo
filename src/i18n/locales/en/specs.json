@@ -1,0 +1,84 @@
+{
+  "meta": {
+    "title": "RPMS Technical Specifications",
+    "description": "Detailed technical specifications of RPMS Remote Power Management System"
+  },
+  "hero": {
+    "badge": "SPECIFICATIONS",
+    "title": "Technical Specifications",
+    "description": "Review the detailed technical specs of RPMS Remote Power Management System"
+  },
+  "unit": {
+    "badge": "RPMS UNIT",
+    "title": "RPMS Unit Specifications",
+    "description": "Integrated distribution board type remote power management device",
+    "specs": [
+      { "label": "Channels", "value": "4 Ports" },
+      { "label": "Network", "value": "Ethernet 10/100Mbps" },
+      { "label": "Protocol", "value": "SNMP, HTTP, TCP/IP" },
+      { "label": "Web Interface", "value": "Built-in Web Server" },
+      { "label": "Installation", "value": "Distribution Board Integrated" }
+    ],
+    "sensors": {
+      "title": "Built-in Sensors",
+      "items": [
+        { "name": "Temperature Sensor", "description": "Internal device temperature measurement" },
+        { "name": "Voltage Sensor", "description": "Per-port voltage monitoring" },
+        { "name": "Current Sensor", "description": "Per-port current measurement" }
+      ]
+    }
+  },
+  "electrical": {
+    "badge": "ELECTRICAL",
+    "title": "Electrical Characteristics",
+    "description": "Power input and output specifications",
+    "specs": [
+      { "label": "Input Voltage", "value": "AC 220V / DC 12-48V" },
+      { "label": "Max Current", "value": "16A per port" },
+      { "label": "Max Power", "value": "3,520W (at AC 220V)" }
+    ],
+    "protection": {
+      "title": "Protection Features",
+      "items": [
+        "Overcurrent Protection",
+        "Overvoltage Protection",
+        "Overheat Protection",
+        "Surge Protection"
+      ]
+    }
+  },
+  "physical": {
+    "badge": "PHYSICAL",
+    "title": "Physical Specifications",
+    "description": "Dimensions, weight, and environmental conditions",
+    "specs": [
+      { "label": "Dimensions", "value": "To be updated" },
+      { "label": "Weight", "value": "To be updated" },
+      { "label": "Operating Temp", "value": "-20°C ~ 60°C" },
+      { "label": "Storage Temp", "value": "-40°C ~ 85°C" },
+      { "label": "Humidity", "value": "10% ~ 90% (non-condensing)" }
+    ]
+  },
+  "protocol": {
+    "badge": "PROTOCOL",
+    "title": "Communication Protocols",
+    "description": "Supported communication standards and integration methods",
+    "items": [
+      {
+        "name": "SNMP",
+        "version": "v2c / v3",
+        "description": "Status inquiry and control via network management protocol"
+      },
+      {
+        "name": "HTTP",
+        "version": "REST API",
+        "description": "Web-based interface and system integration"
+      },
+      {
+        "name": "TCP/IP",
+        "version": "Socket",
+        "description": "Real-time data exchange via direct socket communication"
+      }
+    ]
+  }
+}

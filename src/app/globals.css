@@ -1,0 +1,70 @@
+@import "tailwindcss";
+
+:root {
+  --background: #ffffff;
+  --foreground: #171717;
+
+  /* Primary colors - Green (DBCS brand) PANTONE 3537C */
+  --primary-50: #f0fdf4;
+  --primary-100: #dcfce7;
+  --primary-200: #bbf7d0;
+  --primary-300: #86efac;
+  --primary-400: #4ade80;
+  --primary-500: #22c55e;
+  --primary-600: #005B23;  /* RGB(0, 91, 35) - Main Green */
+  --primary-700: #004a1c;
+  --primary-800: #003815;
+  --primary-900: #002a10;
+
+  /* Secondary - Blue PANTONE 450C */
+  --secondary: #003050;  /* RGB(0, 48, 80) */
+  --secondary-light: #004875;
+  --secondary-dark: #00203a;
+
+  /* Accent - White */
+  --accent: #ffffff;
+
+  /* Status colors - Online/Offline */
+  --status-online: #005B23;  /* Green for online/active */
+  --status-offline: #374151; /* Dark gray for offline/inactive */
+}
+
+@theme inline {
+  --color-background: var(--background);
+  --color-foreground: var(--foreground);
+  --color-primary-50: var(--primary-50);
+  --color-primary-100: var(--primary-100);
+  --color-primary-200: var(--primary-200);
+  --color-primary-300: var(--primary-300);
+  --color-primary-400: var(--primary-400);
+  --color-primary-500: var(--primary-500);
+  --color-primary-600: var(--primary-600);
+  --color-primary-700: var(--primary-700);
+  --color-primary-800: var(--primary-800);
+  --color-primary-900: var(--primary-900);
+  --color-secondary: var(--secondary);
+  --color-accent: var(--accent);
+  --font-sans: var(--font-ibm-plex-sans-kr), "IBM Plex Sans KR", ui-sans-serif, system-ui, sans-serif;
+}
+
+body {
+  background: var(--background);
+  color: var(--foreground);
+}
+
+/* Smooth scrolling */
+html {
+  scroll-behavior: smooth;
+}
+
+/* Selection color */
+::selection {
+  background-color: var(--primary-200);
+  color: var(--primary-900);
+}
+
+/* Secondary color utilities */
+@theme inline {
+  --color-secondary-light: var(--secondary-light);
+  --color-secondary-dark: var(--secondary-dark);
+}

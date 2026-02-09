@@ -1,0 +1,365 @@
+{
+  "meta": {
+    "title": "About Us",
+    "description": "Creating happiness for customers. DBCS is building an IT world for everyone."
+  },
+  "hero": {
+    "title": "Leading the Future of ICT",
+    "subtitle": "ABOUT US",
+    "description": "Creating happiness for customers. DBCS is building an IT world for everyone."
+  },
+  "companyOverview": {
+    "sectionTitle": "Company Overview",
+    "sectionSubtitle": "Prepare for a new smart life with DBCS.",
+    "tagline": "Prepare for a new smart life with DBCS.",
+    "timelineTitle": "DBCS: Past, Present, and Future",
+    "timeline": [
+      {
+        "period": "yesterday",
+        "title": "ITS Service",
+        "subtitle": "Frontier",
+        "items": [
+          "Started as a subsidiary of Korea Expressway Corporation in 1996, performing highway traffic system maintenance",
+          "Expanded traffic system maintenance to national roads, city roads, airports, and tunnels since 2002",
+          "Self-developed and produced ITS-related products such as variable message signs and vehicle recognition devices",
+          "The only company in Korea with total solutions for design, construction, and maintenance in traffic systems"
+        ]
+      },
+      {
+        "period": "today",
+        "title": "ITS Total Service",
+        "subtitle": "Provider",
+        "items": [
+          "Optimized system development and construction for public institutions including government, defense, and local governments",
+          "24/7 non-stop operation and management of core national IT facilities",
+          "Providing highest quality services through continuous quality management (ISO 9001, ISO/IEC 20000, ISO/IEC 27001, CMMI Lv.3, SQ Excellence, ISO 37001, ISO 45001)",
+          "Ranked 4th in construction capability among 10,052 companies (as of 2020)"
+        ]
+      },
+      {
+        "period": "tomorrow",
+        "title": "Digital",
+        "subtitle": "Transformation Partner",
+        "items": [
+          "Next-generation traffic paradigm leader opening the era of safe and intelligent road transportation",
+          "Innovation partner for next-generation information systems in welfare, finance, and public administration",
+          "Platform operator for co-evolution of smart ecosystem",
+          "Core solution distribution hub for Industry 4.0 and the 4th Industrial Revolution"
+        ]
+      }
+    ],
+    "companyInfo": {
+      "name": "DBCS Co., Ltd.",
+      "founded": "June 1, 1996",
+      "ceo": "Chae Seung-eon",
+      "employees": "887 employees",
+      "creditRating": "A+",
+      "capital": "1.8 billion KRW",
+      "revenue": "132.2 billion KRW (2024)",
+      "mainBusiness": "ITS construction and operation management, tunnel maintenance, smart city, system integration (SI), IT consulting, IT outsourcing, IT solution distribution (AI video analysis solutions, etc.)"
+    },
+    "labels": {
+      "name": "Company Name",
+      "founded": "Founded",
+      "ceo": "CEO",
+      "employees": "Employees",
+      "creditRating": "Credit Rating",
+      "capital": "Capital",
+      "revenue": "Revenue",
+      "mainBusiness": "Main Business"
+    }
+  },
+  "businessPhilosophy": {
+    "sectionTitle": "Business Philosophy",
+    "sectionSubtitle": "Creating happiness for customers. DBCS is building an IT world for everyone.",
+    "vision": {
+      "label": "Vision",
+      "content": "NO.1 IT Service Partner"
+    },
+    "mission": {
+      "label": "Mission",
+      "content": "A company that provides a better living environment for humanity based on service and technology"
+    },
+    "coreValuesLabel": "Core Values",
+    "coreValues": [
+      { "title": "Sincerity", "subtitle": "At fingertips" },
+      { "title": "Honesty", "subtitle": "In everything" },
+      { "title": "Expertise", "subtitle": "In work" }
+    ],
+    "workingStandardsLabel": "Working Standards",
+    "workingStandardsSubtitle": "This is how we work!",
+    "workingStandards": [
+      {
+        "key": "profitability",
+        "title": "Profitability",
+        "description": "The first criterion for deciding whether to pursue a business, and promised financial value must be secured within the promised period"
+      },
+      {
+        "key": "riskManagement",
+        "title": "Risk Management",
+        "description": "The highest principle that guarantees the company's survival and cannot be compromised"
+      },
+      {
+        "key": "trust",
+        "title": "Trust",
+        "titleEn": "Trust",
+        "description": "Trusting and being trusted by employees, customers, and partners"
+      },
+      {
+        "key": "teamwork",
+        "title": "Teamwork",
+        "titleEn": "Teamwork",
+        "description": "Working as one team and thinking of the team first"
+      },
+      {
+        "key": "challenge",
+        "title": "Challenge",
+        "titleEn": "Challenge",
+        "description": "Never miss opportunities with quick decision-making and fast execution"
+      }
+    ]
+  },
+  "history": {
+    "title": "History",
+    "subtitle": "DBCS journey since 1996",
+    "decadeSuffix": "s",
+    "achievementsSuffix": " achievements",
+    "yearsOfHistory": "years of history",
+    "keyAchievements": "key achievements",
+    "moreItems": " more",
+    "eras": [
+      {
+        "period": "2018 ~ 2024",
+        "title": "Digital Transformation",
+        "icon": "sparkles",
+        "years": {
+          "2024": [
+            { "month": "Dec", "content": "SH (Safety & Health) Evaluation Grade 2" }
+          ],
+          "2023": [
+            { "month": "Sep", "content": "Selected as 'Best Workplace in Korea' by Ministry of Employment and Labor" }
+          ],
+          "2022": [
+            { "month": "Jun", "content": "ISO45001 Certification (Safety & Health Management System)" },
+            { "month": "Jun", "content": "Korea Expressway Corporation Multi-lane Hi-pass System Manufacturing Project" },
+            { "month": "Apr", "content": "Uiseong Hwanghaksan Wind Power Transmission Line Design/Construction" },
+            { "month": "Mar", "content": "Korea Expressway Corporation Iksan National Road ITS Operation Management" },
+            { "month": "Mar", "content": "Korea Expressway Corporation National Traffic Information Center Operation" },
+            { "month": "Feb", "content": "Korea Expressway Corporation C-ITS Pilot Operation Management" }
+          ],
+          "2021": [
+            { "month": "Dec", "content": "KSPO Information System Integrated Maintenance Project" },
+            { "month": "Dec", "content": "Korea Deposit Insurance Corporation Digital New Deal IT Construction" },
+            { "month": "Sep", "content": "Korea Expressway Corporation National Traffic Information Integration System Expansion" },
+            { "month": "Sep", "content": "Construction Guarantee Cooperative Customer-centric Information System Advancement" },
+            { "month": "Jul", "content": "Excellent Labor-Management Culture Company Award" },
+            { "month": "Jun", "content": "Korail Integrated Computing Center Operation and Maintenance" },
+            { "month": "Mar", "content": "Sangju Bonggang Solar Power Project and 2 others" },
+            { "month": "Jan", "content": "DBCS Family-Friendly Company Certification" }
+          ],
+          "2020": [
+            { "month": "Dec", "content": "Pocheon Human Solar Power Project and 28 others" },
+            { "month": "Dec", "content": "Korea Expressway Corporation Highway ICT Facility Maintenance" },
+            { "month": "Dec", "content": "Busan-Ulsan Highway ICT Facility Maintenance" },
+            { "month": "Dec", "content": "Incheon Metropolitan Office of Education Wireless Equipment Installation" },
+            { "month": "Aug", "content": "NH Investment & Securities Website Reconstruction" },
+            { "month": "Jun", "content": "Yongin-Seoul Highway Traffic Management System Reconstruction" },
+            { "month": "May", "content": "Ministry of Health and Welfare Social Security Information System Expansion" },
+            { "month": "May", "content": "Google Cloud Platform (GCP) and G-Suite Partner Qualification" },
+            { "month": "May", "content": "AI Solution Business Strategic Partnership (LaonPeople)" },
+            { "month": "Apr", "content": "Homeplus Customer Data Platform (CDP) Construction" },
+            { "month": "Apr", "content": "COVID-19 Support Donation (Suseo Myeonghwa Social Welfare Center)" },
+            { "month": "Feb", "content": "Gwangju Metropolitan City Next-generation C-ITS Demonstration Project" }
+          ],
+          "2019": [
+            { "month": "Dec", "content": "Minister of Health and Welfare Commendation (Next-generation Social Security System)" },
+            { "month": "Nov", "content": "LH Busan Gijang A-2BL Apartment ICT Construction" },
+            { "month": "Nov", "content": "Chief of Staff Award (2019 Korea Smart Defense ICT Expo)" },
+            { "month": "Oct", "content": "Korea Expressway Corporation V2X Security Certification System" },
+            { "month": "Sep", "content": "Korea Expressway Corporation National Road Traffic Information IT Infrastructure" },
+            { "month": "Sep", "content": "Korea Expressway Corporation C-ITS Pilot Expansion" },
+            { "month": "Aug", "content": "Pocheon Wangbang Tunnel Operation Management" },
+            { "month": "Aug", "content": "Korea Expressway Corporation Multi-lane Hi-pass National Construction Zone 3" },
+            { "month": "Jul", "content": "Korea Expressway Corporation Multi-lane Hi-pass Metropolitan Zone 1" },
+            { "month": "Jun", "content": "Ministry of Health and Welfare Social Security System Expansion Phase 1" },
+            { "month": "Jun", "content": "Defense Integrated Data Center DIDC Integrated Maintenance" },
+            { "month": "May", "content": "Korea Hydro & Nuclear Power Wolseong ICT Facility Maintenance" },
+            { "month": "Mar", "content": "Korea Expressway Corporation Samshinbong Tunnel Operation" },
+            { "month": "Jan", "content": "Seoul Metropolitan Government Traffic Signal Maintenance (Gangnam)" }
+          ],
+          "2018": [
+            { "month": "Dec", "content": "Minister of Land, Infrastructure and Transport Commendation" },
+            { "month": "Dec", "content": "Minister of Health and Welfare Commendation" },
+            { "month": "Jul", "content": "Korea Expressway Corporation Next-generation C-ITS Demonstration" },
+            { "month": "Jul", "content": "InnoFuture Alliance Launch (10 companies)" },
+            { "month": "Jul", "content": "Industrial IoT Platform and AR Solution Partnership (PTC Korea)" },
+            { "month": "Jun", "content": "IoT-based Smart City Partnership (Grexter)" },
+            { "month": "Jun", "content": "Selected as 'Best Workplace in Korea' by Ministry of Employment and Labor" },
+            { "month": "Apr", "content": "National Assembly Information System Integrated Maintenance" },
+            { "month": "Feb", "content": "IFEZ Songdo u-City Infrastructure Construction" },
+            { "month": "Feb", "content": "Incheon International Airport Corporation Commendation" },
+            { "month": "Jan", "content": "Postal Service Information Center PDA Deployment" }
+          ]
+        }
+      },
+      {
+        "period": "2013 ~ 2017",
+        "title": "New Leap Forward",
+        "icon": "trending",
+        "years": {
+          "2017": [
+            { "month": "Dec", "content": "Social Security Information Service Merit Award" },
+            { "month": "Sep", "content": "Korea Student Aid Foundation Information System Maintenance" },
+            { "month": "Jul", "content": "Postal Service Information Center Equipment Installation" },
+            { "month": "Jul", "content": "NVIDIA AI/HPC Distribution Contract" },
+            { "month": "Jul", "content": "Namyangju Dasan New Town Smart City Construction" },
+            { "month": "Jun", "content": "Next-generation ITS Pilot Completion (Daejeon-Sejong)" },
+            { "month": "Jun", "content": "Smart Tolling Completion (Sangju-Yeongcheon)" },
+            { "month": "Jan", "content": "Industrial H/W Platform Partnership (ARBOR Korea)" }
+          ],
+          "2016": [
+            { "month": "Nov", "content": "SRT Integrated Information System Operation and Maintenance" },
+            { "month": "Jul", "content": "ICT Construction Capability Evaluation Rank 2" },
+            { "month": "Apr", "content": "LH Quality Excellence Company Selection (Electrical)" }
+          ],
+          "2015": [
+            { "month": "Oct", "content": "Fair Trade Subcontract Law Understanding Seminar" },
+            { "month": "Sep", "content": "Excellent Partner Company Meeting" },
+            { "month": "Jul", "content": "ISO27001 Certification (Information Security Management)" },
+            { "month": "Apr", "content": "Korea Student Aid Foundation Information System Maintenance" },
+            { "month": "Apr", "content": "Incheon Airport Visual Docking Guidance System Contract" },
+            { "month": "Jan", "content": "Korea Expressway Corporation 4.5-ton+ Truck Hi-pass System" },
+            { "month": "Jan", "content": "Korea-Vietnam IT University Equipment Donation (Da Nang)" }
+          ],
+          "2014": [
+            { "month": "Dec", "content": "11th Web Award Korea Government Agency Excellence Award" },
+            { "month": "Dec", "content": "CMMI Level 3 Certification" },
+            { "month": "Nov", "content": "Incheon International Airport Phase 3 Security System" },
+            { "month": "Nov", "content": "2nd Government Computing Center Incident Response Competition Win" },
+            { "month": "Jul", "content": "1st Government Computing Center Incident Response Competition Win" },
+            { "month": "Jul", "content": "Korea's First Toll Collection System Export (Peru)" },
+            { "month": "Jun", "content": "Daejeon Government Computing Center IT Resource Integration" },
+            { "month": "Jan", "content": "Gwangju Government Computing Center Information System Maintenance" }
+          ],
+          "2013": [
+            { "month": "Dec", "content": "Incheon Airport Excellent Partner Selection" },
+            { "month": "Dec", "content": "ICT Polytechnic Industry-Academia Cooperation Agreement" },
+            { "month": "Oct", "content": "Exempt Vehicle Management System GS Certification" },
+            { "month": "Oct", "content": "National Health Insurance Service Integrated Benefits System" },
+            { "month": "Aug", "content": "Defense Acquisition Program Administration Coastal Surveillance System" },
+            { "month": "May", "content": "Bokjiro Enhancement and Demand-centered Service Expansion" },
+            { "month": "Apr", "content": "National Library of Korea Sejong Information System" },
+            { "month": "Mar", "content": "Company Name Change: DB Information & Communications → DBCS" }
+          ]
+        }
+      },
+      {
+        "period": "2006 ~ 2012",
+        "title": "DBCS Era Begins",
+        "icon": "rocket",
+        "years": {
+          "2012": [
+            { "month": "Aug", "content": "International Business Award Gold (Best Marketing Brochure)" },
+            { "month": "Aug", "content": "DB Information & Communications Solution Partner Group Launch (17 companies)" }
+          ],
+          "2011": [
+            { "month": "Dec", "content": "37th Korea Quality Management Award Presidential Commendation (Service)" },
+            { "month": "Jun", "content": "Excellent Labor-Management Culture Company Certification" }
+          ],
+          "2010": [
+            { "month": "Dec", "content": "Incheon International Airport Corporation Airport Quality Excellence Award" },
+            { "month": "Jul", "content": "ICT Construction Capability Rank 4 (6,617 companies nationwide)" },
+            { "month": "Jun", "content": "ISO20000 Certification (ITSM)" },
+            { "month": "Apr", "content": "Credit Rating AA+ (Seoul Credit Rating)" },
+            { "month": "Mar", "content": "National Road ITS Integrated Maintenance (2,405KM)" }
+          ],
+          "2009": [
+            { "month": "Oct", "content": "DBCS Systems Established (100% subsidiary)" },
+            { "month": "Oct", "content": "DSRC Traffic Information System Development Completed" },
+            { "month": "Jul", "content": "ICT Construction Capability Evaluation Rank 5 (6,289 companies)" },
+            { "month": "Mar", "content": "First UTIS Commercialization (Incheon Metropolitan City)" }
+          ],
+          "2008": [
+            { "month": "Dec", "content": "Korea IT Innovation Award Excellence (Prime Minister)" }
+          ],
+          "2007": [
+            { "month": "Dec", "content": "Hi-pass National Construction Phase 1 & 2" }
+          ],
+          "2006": [
+            { "month": "Nov", "content": "Incheon International Airport Aviation Communication Operation" },
+            { "month": "Mar", "content": "Minister of Construction and Transportation Commendation (ITS)" }
+          ]
+        }
+      },
+      {
+        "period": "1999 ~ 2005",
+        "title": "Foundation for Growth",
+        "icon": "trending",
+        "years": {
+          "2005": [
+            { "month": "Dec", "content": "Service Quality Excellence Company Certification" },
+            { "month": "Oct", "content": "Company Name Change: Highway ICT → DB Information & Communications" },
+            { "month": "Jul", "content": "ICT Construction Capability Evaluation Top 10 (Rank 8)" }
+          ],
+          "2004": [
+            { "month": "Dec", "content": "National Police Agency Traffic Information Center Construction" },
+            { "month": "Jan", "content": "ITS Academic Award Establishment (Korea ITS Society)" }
+          ],
+          "2003": [
+            { "month": "Dec", "content": "Bypass National Road ITS Phase 1 Construction (395KM)" },
+            { "month": "Jan", "content": "Private Highway ITS Maintenance (Cheonan-Nonsan Highway)" }
+          ],
+          "2002": [
+            { "month": "May", "content": "Unmanned Enforcement Vehicle System Certification" },
+            { "month": "Apr", "content": "Company Name Change: Highway ICT Corporation → Highway ICT Co." },
+            { "month": "Jan", "content": "Privatization Completed (DAEBO Group as Major Shareholder)" }
+          ],
+          "2001": [
+            { "month": "Oct", "content": "Engineering Professional Field Addition (Transportation)" },
+            { "month": "Mar", "content": "Venture Company Registration" }
+          ],
+          "2000": [
+            { "month": "Dec", "content": "Highway ITS Core Components 310 Types Localized" },
+            { "month": "Jul", "content": "ICT Construction Capability Evaluation Top 100 (Rank 95)" }
+          ],
+          "1999": [
+            { "month": "Jul", "content": "ISO 9001 Certification (ITS Facility Maintenance and Component Design/Development/Production)" },
+            { "month": "Jul", "content": "Corporate R&D Center Approval" },
+            { "month": "Jun", "content": "ITS Research Group Launch" },
+            { "month": "Jun", "content": "Ministry of Construction and Transportation National R&D Project Organization" },
+            { "month": "Apr", "content": "Ministry of Commerce, Industry and Energy National R&D Project Organization" }
+          ]
+        }
+      },
+      {
+        "period": "1996 ~ 1998",
+        "title": "The Beginning of DBCS",
+        "icon": "sparkles",
+        "years": {
+          "1998": [
+            { "month": "Dec", "content": "R&D Organization Registration (Ministry of Science and Technology)" },
+            { "month": "Feb", "content": "ICT Construction Grade 1 License" }
+          ],
+          "1997": [
+            { "month": "Nov", "content": "Capital Increase 2.7 billion KRW (Total 6 billion KRW)" },
+            { "month": "Apr", "content": "Telecommunications Construction License" },
+            { "month": "Jan", "content": "Highway ICT Facility Integrated Maintenance Start" }
+          ],
+          "1996": [
+            { "month": "Aug", "content": "Software Business Registration" },
+            { "month": "Aug", "content": "Engineering Business Registration (ICT, Information Management)" },
+            { "month": "Aug", "content": "Regional Business Unit Launch (6 locations)" },
+            { "month": "Jun", "content": "Highway ICT Corporation Established (Korea Expressway Corporation 100%)" }
+          ]
+        }
+      }
+    ]
+  },
+  "contact": {
+    "title": "Location",
+    "address": "Address",
+    "phone": "Phone",
+    "email": "Email",
+    "fax": "Fax"
+  }
+}

@@ -1,0 +1,348 @@
+{
+  "meta": {
+    "title": "RPMS Product",
+    "description": "RPMS Remote Power Management System - Integrated Power Management Solution"
+  },
+  "hero": {
+    "title": "RPMS",
+    "subtitle": "Remote Power Management System",
+    "description": "An integrated remote power management system in distribution board form, efficiently managing power for road/traffic infrastructure equipment such as VMS, CCTV, and detectors."
+  },
+  "overview": {
+    "badge": "SYSTEM OVERVIEW",
+    "title": "System Overview",
+    "description": "RPMS is an industrial power management solution installed in distribution board form, providing real-time monitoring of all connected equipment power status and remote control through a web-based interface.",
+    "highlights": [
+      {
+        "title": "Integrated Design",
+        "description": "Industrial design that integrates with existing distribution boards"
+      },
+      {
+        "title": "Multi-Channel Ports",
+        "description": "4 channels for individual port control and monitoring"
+      },
+      {
+        "title": "Web-Based Management",
+        "description": "Access and manage via web browser without additional software"
+      },
+      {
+        "title": "Real-Time Monitoring",
+        "description": "Real-time collection of voltage, current, temperature data"
+      }
+    ]
+  },
+  "features": {
+    "badge": "KEY FEATURES",
+    "title": "Key Features",
+    "description": "RPMS provides various management functions through a web-based interface.",
+    "items": [
+      {
+        "key": "remoteControl",
+        "title": "Remote Power Control",
+        "description": "Remotely turn on/off each port's power through a web browser.",
+        "details": [
+          "Individual port power control",
+          "Group batch control",
+          "Sequential Power On/Off (Power Sequencing)",
+          "Emergency power cutoff"
+        ]
+      },
+      {
+        "key": "monitoring",
+        "title": "Real-Time Monitoring",
+        "description": "Collect and display status values such as voltage, current, and temperature for each port in real-time.",
+        "details": [
+          "Per-port voltage/current status",
+          "Internal device temperature",
+          "Power On/Off status",
+          "Abnormal status display"
+        ]
+      },
+      {
+        "key": "threshold",
+        "title": "Threshold Settings",
+        "description": "Set thresholds for voltage, current, and temperature to detect abnormal situations in advance.",
+        "details": [
+          "Voltage upper/lower thresholds",
+          "Current overload threshold",
+          "Temperature overheat threshold",
+          "Alert on threshold exceeded"
+        ]
+      },
+      {
+        "key": "alerts",
+        "title": "Alert System",
+        "description": "Receive immediate notifications when events occur such as threshold exceeded or power anomalies.",
+        "details": [
+          "SNMP Trap transmission",
+          "Event log recording",
+          "Status change notifications",
+          "Integrated system notification"
+        ]
+      },
+      {
+        "key": "logging",
+        "title": "History Management",
+        "description": "Record all power control history and status changes for tracking.",
+        "details": [
+          "Power control history",
+          "Status change logs",
+          "Alert occurrence history",
+          "User access records"
+        ]
+      },
+      {
+        "key": "integration",
+        "title": "System Integration",
+        "description": "Integrate with upper-level control systems through standard protocols such as SNMP and HTTP.",
+        "details": [
+          "SNMP v2c/v3 support",
+          "HTTP REST API",
+          "TCP/IP socket communication",
+          "Central control system integration"
+        ]
+      }
+    ]
+  },
+  "software": {
+    "badge": "WEB INTERFACE",
+    "title": "Web Management Interface",
+    "description": "Use all functions in a web browser without installing separate programs.",
+    "dashboard": {
+      "title": "RPMS Dashboard",
+      "description": "An intuitive dashboard to view the entire system status at a glance",
+      "url": "rpms.dbcs.co.kr/dashboard"
+    },
+    "sidebar": {
+      "title": "RPMS",
+      "subtitle": "Remote Power Management",
+      "dashboard": "Dashboard",
+      "devices": "Devices",
+      "monitoring": "Monitoring",
+      "events": "Event Log",
+      "settings": "Settings",
+      "admin": "Admin",
+      "adminRole": "System Administrator"
+    },
+    "welcome": {
+      "hq": "Seoul HQ",
+      "user": "Admin",
+      "greeting": "Welcome to RPMS",
+      "connected": "Connected"
+    },
+    "hqStatus": {
+      "title": "HQ Device Status",
+      "totalLabel": "All Devices",
+      "items": [
+        { "name": "Seoul HQ", "online": 12, "total": 12 },
+        { "name": "Daejeon HQ", "online": 8, "total": 9 },
+        { "name": "Daegu HQ", "online": 6, "total": 7 },
+        { "name": "Busan HQ", "online": 5, "total": 5 },
+        { "name": "Gwangju HQ", "online": 4, "total": 4 }
+      ]
+    },
+    "mapView": {
+      "title": "Device Locations",
+      "online": "Online",
+      "offline": "Offline",
+      "unit": "units"
+    },
+    "treeView": {
+      "title": "Device List",
+      "online": "Online",
+      "offline": "Offline",
+      "headquarters": [
+        {
+          "name": "Seoul HQ",
+          "branches": [
+            {
+              "name": "Seoul Branch",
+              "devices": [
+                { "id": "RPMS-001", "online": true },
+                { "id": "RPMS-002", "online": true },
+                { "id": "RPMS-003", "online": true }
+              ]
+            },
+            {
+              "name": "Gyeonggi Branch",
+              "devices": [
+                { "id": "RPMS-004", "online": true },
+                { "id": "RPMS-005", "online": true }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Daejeon HQ",
+          "branches": [
+            {
+              "name": "Daejeon Branch",
+              "devices": [
+                { "id": "RPMS-006", "online": true },
+                { "id": "RPMS-007", "online": false },
+                { "id": "RPMS-008", "online": true }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Daegu HQ",
+          "branches": [
+            {
+              "name": "Daegu Branch",
+              "devices": [
+                { "id": "RPMS-009", "online": true },
+                { "id": "RPMS-010", "online": true },
+                { "id": "RPMS-011", "online": true },
+                { "id": "RPMS-012", "online": false }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "portMonitor": {
+      "title": "Port Monitoring",
+      "voltage": "Voltage",
+      "current": "Current",
+      "temperature": "Temp",
+      "power": "Power",
+      "allOn": "All ON",
+      "allOff": "All OFF",
+      "ports": [
+        { "voltage": "222.2", "current": "3.08", "temp": "28.8", "status": "ON" },
+        { "voltage": "221.7", "current": "1.18", "temp": "25.9", "status": "ON" },
+        { "voltage": "226.0", "current": "1.09", "temp": "27.9", "status": "ON" },
+        { "voltage": "225.6", "current": "2.31", "temp": "37.0", "status": "ON" }
+      ]
+    },
+    "eventLog": {
+      "title": "Event Log",
+      "total": "Total 1,247 events",
+      "columns": {
+        "time": "Time",
+        "type": "Type",
+        "device": "Device",
+        "hq": "HQ",
+        "message": "Message"
+      },
+      "events": [
+        { "time": "14:23:15", "type": "Power State", "typeKey": "power", "device": "RPMS-001", "hq": "Seoul HQ", "message": "Port 1 Power ON" },
+        { "time": "14:22:48", "type": "Temp Alarm", "typeKey": "temp", "device": "RPMS-007", "hq": "Daejeon HQ", "message": "Temperature 45.2°C exceeded" },
+        { "time": "14:21:33", "type": "Disconnected", "typeKey": "offline", "device": "RPMS-012", "hq": "Daegu HQ", "message": "Device disconnected" },
+        { "time": "14:20:17", "type": "Status Report", "typeKey": "status", "device": "RPMS-003", "hq": "Seoul HQ", "message": "Normal status report" },
+        { "time": "14:19:55", "type": "Power State", "typeKey": "power", "device": "RPMS-005", "hq": "Seoul HQ", "message": "Port 3 Power OFF" },
+        { "time": "14:18:42", "type": "Reconnected", "typeKey": "online", "device": "RPMS-012", "hq": "Daegu HQ", "message": "Device reconnected" }
+      ],
+      "pagination": "1 - 20 / 1,247"
+    },
+    "deviceListView": {
+      "title": "Device List",
+      "total": "Total 37 devices",
+      "addDevice": "Add Device",
+      "columns": { "hq": "HQ", "branch": "Branch", "deviceId": "Device ID", "name": "Name", "status": "Status", "ip": "IP Address" },
+      "devices": [
+        { "hq": "Seoul HQ", "branch": "Seoul Branch", "id": "RPMS-001", "name": "Gangnam VMS", "online": true, "ip": "192.168.1.101" },
+        { "hq": "Seoul HQ", "branch": "Seoul Branch", "id": "RPMS-002", "name": "Seocho CCTV", "online": true, "ip": "192.168.1.102" },
+        { "hq": "Seoul HQ", "branch": "Seoul Branch", "id": "RPMS-003", "name": "Songpa Detector", "online": true, "ip": "192.168.1.103" },
+        { "hq": "Seoul HQ", "branch": "Gyeonggi Branch", "id": "RPMS-004", "name": "Suwon VMS", "online": true, "ip": "192.168.2.101" },
+        { "hq": "Seoul HQ", "branch": "Gyeonggi Branch", "id": "RPMS-005", "name": "Seongnam CCTV", "online": true, "ip": "192.168.2.102" },
+        { "hq": "Daejeon HQ", "branch": "Daejeon Branch", "id": "RPMS-006", "name": "Yuseong VMS", "online": true, "ip": "192.168.3.101" },
+        { "hq": "Daejeon HQ", "branch": "Daejeon Branch", "id": "RPMS-007", "name": "Daedeok CCTV", "online": false, "ip": "192.168.3.102" },
+        { "hq": "Daegu HQ", "branch": "Daegu Branch", "id": "RPMS-009", "name": "Suseong VMS", "online": true, "ip": "192.168.4.101" },
+        { "hq": "Daegu HQ", "branch": "Daegu Branch", "id": "RPMS-012", "name": "Dalseo Detector", "online": false, "ip": "192.168.4.104" }
+      ]
+    },
+    "monitoringView": {
+      "title": "Real-Time Monitoring",
+      "selectedDevice": "RPMS-001 · Gangnam VMS",
+      "sensors": {
+        "tempLabel": "Temperature",
+        "tempValue": "28.8°C",
+        "voltageLabel": "Voltage Range",
+        "voltageValue": "221.7 ~ 226.0V",
+        "currentLabel": "Total Current",
+        "currentValue": "7.66A"
+      },
+      "offlineTitle": "Offline Devices",
+      "offlineDesc": "Currently disconnected devices",
+      "offlineDevices": [
+        { "id": "RPMS-007", "name": "Daedeok CCTV", "lastSeen": "14:15:30" },
+        { "id": "RPMS-012", "name": "Dalseo Detector", "lastSeen": "13:45:12" }
+      ]
+    },
+    "settingsView": {
+      "title": "Settings",
+      "tabs": { "system": "System", "notifications": "Notifications", "display": "Display" },
+      "system": {
+        "title": "Device Connection Settings",
+        "pendingTimeout": "Pending Timeout",
+        "pendingValue": "30s",
+        "pollingInterval": "Status Polling Interval",
+        "pollingValue": "5s",
+        "allowUnregistered": "Allow Unregistered Devices"
+      },
+      "notifications": {
+        "title": "Notification Settings",
+        "eventModal": "Show Event Modal",
+        "alarmSound": "Alarm Sound",
+        "volume": "Volume",
+        "volumeValue": "80%"
+      },
+      "display": {
+        "title": "Display Settings",
+        "pageSize": "Event Log Page Size",
+        "pageSizeValue": "20",
+        "dashboardEvents": "Dashboard Event Count",
+        "dashboardEventsValue": "10"
+      }
+    },
+    "capabilities": [
+      {
+        "title": "Real-Time Status",
+        "description": "Check voltage, current, temperature, and power status for each port in real-time"
+      },
+      {
+        "title": "Remote Control",
+        "description": "Directly control power On/Off per port from the web"
+      },
+      {
+        "title": "Threshold Reconfiguration",
+        "description": "Change voltage/current/temperature thresholds during operation"
+      },
+      {
+        "title": "History Inquiry",
+        "description": "View power control history and event logs"
+      }
+    ],
+    "note": "Internal network only - Accessible only within private networks for security."
+  },
+  "applications": {
+    "badge": "APPLICATIONS",
+    "title": "Applications",
+    "description": "RPMS is used for power management of various road/traffic infrastructure equipment.",
+    "items": [
+      {
+        "title": "VMS (Variable Message Signs)",
+        "description": "Power status monitoring and remote control of road signs"
+      },
+      {
+        "title": "CCTV Cameras",
+        "description": "Power management of traffic surveillance CCTV equipment"
+      },
+      {
+        "title": "Vehicle Detectors",
+        "description": "Power management for radar/loop vehicle detectors"
+      },
+      {
+        "title": "Communication Equipment",
+        "description": "Power management for network and communication facilities"
+      }
+    ]
+  },
+  "cta": {
+    "title": "Contact Us About RPMS",
+    "description": "We will propose a customized solution for your site environment.",
+    "button": "Contact Us"
+  }
+}

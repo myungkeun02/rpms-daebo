@@ -1,0 +1,44 @@
+{
+  "nav": {
+    "home": "HOME",
+    "product": "PRODUCT",
+    "features": "FEATURES",
+    "specs": "SPECS",
+    "useCases": "USE CASES",
+    "about": "ABOUT US",
+    "contact": "CONTACT",
+    "support": "SUPPORT"
+  },
+  "product": {
+    "name": "RPMS",
+    "fullName": "Remote Power Management System",
+    "description": "RPMS is an innovative remote power management system that allows you to remotely manage and monitor power."
+  },
+  "company": {
+    "website": "DBCS Website",
+    "address": "6F, Rosedale Bldg, 280 Gwangpyeong-ro, Gangnam-gu, Seoul",
+    "mapTitle": "DBCS Location - 6F, Rosedale Bldg, 280 Gwangpyeong-ro, Gangnam-gu, Seoul"
+  },
+  "footer": {
+    "company": "Company",
+    "product": "Product",
+    "support": "Support",
+    "legal": "Legal",
+    "privacy": "Privacy Policy",
+    "terms": "Terms of Service",
+    "copyright": "COPYRIGHT© 2018 DBCS. ALL RIGHT RESERVED."
+  },
+  "cta": {
+    "learnMore": "Learn More",
+    "getStarted": "Get Started",
+    "contact": "Contact Us",
+    "download": "Download"
+  },
+  "language": {
+    "ko": "한국어",
+    "en": "English"
+  },
+  "accessibility": {
+    "openMenu": "Open menu"
+  }
+}

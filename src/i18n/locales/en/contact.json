@@ -1,0 +1,26 @@
+{
+  "meta": {
+    "title": "Contact Us",
+    "description": "Get in touch with DBCS for inquiries about our ICT solutions and services."
+  },
+  "hero": {
+    "title": "Contact Us",
+    "description": "We're here to help. Reach out to us for any questions about our solutions and services."
+  },
+  "info": {
+    "title": "Contact Information",
+    "address": "Address",
+    "phone": "Phone",
+    "email": "Email",
+    "fax": "Fax",
+    "hours": "Business Hours",
+    "hoursValue": "Mon-Fri 09:00 - 18:00 KST"
+  },
+  "location": {
+    "title": "How to Find Us",
+    "directions": "Directions",
+    "subway": "Subway",
+    "bus": "Bus",
+    "parking": "Parking"
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "meta": {
+    "title": "RPMS Key Features",
+    "description": "Discover the core features and capabilities of RPMS."
+  },
+  "hero": {
+    "title": "Key Features",
+    "description": "Introducing the powerful features that RPMS offers"
+  },
+  "features": {
+    "remoteControl": {
+      "title": "Remote Power Control",
+      "description": "Control equipment power remotely from anywhere through web browser or mobile app.",
+      "details": [
+        "Individual or group power control",
+        "Sequential power On/Off (Power Sequencing)",
+        "Emergency power cutoff",
+        "Real-time power status check"
+      ]
+    },
+    "monitoring": {
+      "title": "Real-time Monitoring",
+      "description": "Monitor various data including power consumption, voltage, and current in real-time.",
+      "details": [
+        "Power consumption (W, kWh)",
+        "Voltage/Current measurement",
+        "Temperature monitoring (optional)",
+        "Dashboard visualization"
+      ]
+    },
+    "scheduling": {
+      "title": "Schedule Management",
+      "description": "Set time-based and day-based power schedules to save energy and automate operations.",
+      "details": [
+        "Recurring schedule setup",
+        "Specific date exceptions",
+        "Multiple schedule groups",
+        "Holiday calendar integration"
+      ]
+    },
+    "alerts": {
+      "title": "Alert System",
+      "description": "Receive instant notifications through various channels when anomalies occur.",
+      "details": [
+        "Email notifications",
+        "SMS alerts (optional)",
+        "Mobile push notifications",
+        "Webhook integration"
+      ]
+    },
+    "reporting": {
+      "title": "Reports & Analytics",
+      "description": "Analyze power usage data to suggest cost savings and efficiency improvements.",
+      "details": [
+        "Daily/weekly/monthly usage reports",
+        "Cost analysis",
+        "Trend analysis",
+        "CSV/PDF export"
+      ]
+    },
+    "security": {
+      "title": "Security & Permissions",
+      "description": "Provides granular permission management and security in multi-user environments.",
+      "details": [
+        "Role-based access control (RBAC)",
+        "Activity logging",
+        "Two-factor authentication (optional)",
+        "SSL/TLS encryption"
+      ]
+    }
+  }
+}

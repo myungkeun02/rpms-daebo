@@ -1,0 +1,165 @@
+{
+  "meta": {
+    "title": "Terms of Service",
+    "description": "DBCS Co., Ltd. Terms of Service"
+  },
+  "title": "Terms of Service",
+  "chapters": [
+    {
+      "title": "Chapter 1: General Provisions",
+      "articles": [
+        {
+          "title": "Article 1 (Purpose)",
+          "content": "These Terms of Service specifically define the terms and conditions for subscription and use of internet services ('Services') provided by DBCS Co., Ltd. ('the Site') and other necessary matters."
+        },
+        {
+          "title": "Article 2 (Definition of Terms)",
+          "items": [
+            "'User' refers to members and non-members who access the Site and receive services provided by the Site in accordance with these Terms.",
+            "'Member' refers to a person who has provided personal information to the Site and has been assigned an ID and password to use the services.",
+            "'Member ID' refers to a combination of letters and numbers selected by the member for identification and service use.",
+            "'Password' refers to a combination of letters and numbers selected by the member to protect their privacy."
+          ]
+        },
+        {
+          "title": "Article 3 (Effect and Amendment of Terms)",
+          "items": [
+            "These Terms become effective when posted on the Site or notified to members by other means.",
+            "When the Site amends these Terms, it shall specify the application date and reason for amendment and post them together with the current Terms on the initial screen of the Site from 7 days before the application date until the day before. However, if the Terms are changed unfavorably to members, at least 30 days advance notice shall be given."
+          ]
+        },
+        {
+          "title": "Article 4 (Rules Outside the Terms)",
+          "items": [
+            "These Terms apply together with the usage guide for services provided by the Site.",
+            "Matters not specified in these Terms shall be governed by relevant laws and regulations."
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Chapter 2: Conclusion of Use Contract",
+      "articles": [
+        {
+          "title": "Article 5 (Establishment of Use Contract)",
+          "items": [
+            "The use contract is established when the customer selects 'I agree' to the Terms set by the Site, fills out the online application form, and the Site approves it."
+          ]
+        },
+        {
+          "title": "Article 6 (Membership Registration)",
+          "items": [
+            "Customers who wish to use the services must register by filling in personal information on the membership registration form set by the Site.",
+            "Children under 14 years of age cannot register as members of the Site."
+          ]
+        },
+        {
+          "title": "Article 7 (Protection and Use of Personal Information)",
+          "content": "The Site strives to protect members' personal information including registration information in accordance with relevant laws and regulations. The protection and use of members' personal information shall be governed by relevant laws and the Site's privacy policy."
+        },
+        {
+          "title": "Article 8 (Acceptance and Restriction of Application)",
+          "items": [
+            "The Site shall approve service use for customers who apply according to Article 6.",
+            "The Site shall not approve applications in the following cases: when the application contains false information, when applying in violation of other specified requirements."
+          ]
+        },
+        {
+          "title": "Article 9 (Assignment and Change of Member ID)",
+          "items": [
+            "The Site assigns a Member ID selected by the customer according to the Terms.",
+            "In principle, the Member ID cannot be changed. If change is necessary due to unavoidable reasons, the ID must be terminated and re-registered."
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Chapter 3: Obligations of Contracting Parties",
+      "articles": [
+        {
+          "title": "Article 10 (Company's Obligations)",
+          "items": [
+            "The Site shall enable customers to use the services on the requested service start date unless there are special circumstances.",
+            "The Site shall establish a security system to protect personal information and disclose and comply with the privacy policy.",
+            "The Site shall promptly process opinions or complaints raised by members through appropriate procedures when objectively recognized as legitimate."
+          ]
+        },
+        {
+          "title": "Article 11 (Member's Obligations)",
+          "items": [
+            "Users must fill in all information truthfully under their real name when applying for membership or changing member information. If false or others' information is registered, no rights can be claimed.",
+            "Except where the Site is responsible under relevant laws and privacy policy, members are responsible for all consequences arising from negligent password management or unauthorized use of the ID assigned to members.",
+            "Members shall not infringe on the intellectual property rights of the Site and third parties."
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Chapter 4: Use of Services",
+      "articles": [
+        {
+          "title": "Article 12 (Service Hours)",
+          "items": [
+            "In principle, services operate 24 hours a day, 365 days a year, unless there are special business or technical reasons for the Site.",
+            "The Site may temporarily suspend services on dates or times determined by the Site for regular system inspections, expansion, and replacement. Temporary service suspensions due to scheduled work shall be notified in advance through the Site's homepage."
+          ]
+        },
+        {
+          "title": "Article 13 (Website Copyright)",
+          "items": [
+            "Copyright for all content posted on this website belongs to the Site. However, if there is a separate original author of a post, the source shall be indicated and the copyright belongs to the original author.",
+            "Copyright for works directly posted by members belongs to the members. However, members are deemed to have granted the Site the right to use them free of charge.",
+            "Third parties are prohibited from using or citing the Site's content on other websites without permission."
+          ]
+        },
+        {
+          "title": "Article 14 (Management and Deletion of Posts)",
+          "content": "The Site may delete, move, or refuse registration of posts or materials that fall under the following without prior notice.",
+          "items": [
+            "Posts that violate these Terms or are judged to be commercial, illegal, obscene, or vulgar",
+            "Content that severely insults or damages the reputation of other members or third parties",
+            "Content that disseminates or links content that violates public order and morals",
+            "Content that encourages illegal copying or hacking",
+            "Commercial advertisements",
+            "Content objectively recognized as crime-related",
+            "Content that infringes on the copyrights or other rights of other users or third parties",
+            "Content judged to violate other relevant laws"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Chapter 5: Contract Termination and Use Restriction",
+      "articles": [
+        {
+          "title": "Article 15 (Contract Termination)",
+          "content": "When a member wishes to terminate the use contract, they must directly terminate it using the membership withdrawal menu."
+        },
+        {
+          "title": "Article 16 (Service Use Restriction)",
+          "items": [
+            "The Site may restrict service use when a member violates Article 11 of these Terms or falls under the following: actions that violate these Terms, other actions that interfere with normal service operation.",
+            "According to the above use restriction regulations, the Site may suspend or terminate the use contract for members using the service without separate notice."
+          ]
+        },
+        {
+          "title": "Article 17 (Prohibition of Email Address Collection)",
+          "content": "Members may not collect email addresses manually, using email address extraction tools, or provide them to third parties."
+        }
+      ]
+    },
+    {
+      "title": "Chapter 6: Objection and Prohibition of Damage Claims",
+      "articles": [
+        {
+          "title": "Article 18 (Prohibition of Objection)",
+          "content": "The Site is not liable for any damages incurred by members in connection with free services, except for damages caused by the Site's intentional or negligent conduct."
+        },
+        {
+          "title": "Article 19 (Prohibition of Damage Claims)",
+          "content": "In case of litigation arising from disputes over service use, the case shall be filed with the court having jurisdiction under the Civil Procedure Act."
+        }
+      ]
+    }
+  ]
+}
