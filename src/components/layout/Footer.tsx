@@ -40,6 +40,7 @@ export default function Footer({ locale, translations }: FooterProps) {
                 alt="DBCS"
                 width={626}
                 height={139}
+                sizes="216px"
                 className="h-12 w-auto"
               />
               <div>

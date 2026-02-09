@@ -67,6 +67,8 @@ export default function Header({ locale }: HeaderProps) {
                     alt="DBCS"
                     width={626}
                     height={139}
+                    priority
+                    sizes="(min-width: 1024px) 162px, 144px"
                     className="h-8 w-auto transition-transform duration-200 group-hover:scale-105 lg:h-9"
                   />
                   <div className="flex flex-col">
