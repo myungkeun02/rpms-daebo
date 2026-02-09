@@ -1,18 +1,10 @@
 import type { Metadata } from 'next';
-import { IBM_Plex_Sans_KR } from 'next/font/google';
 import { languages, type Language } from '@/i18n/settings';
 import { getTranslation } from '@/i18n';
 import { siteConfig } from '@/config/site';
 import Header from '@/components/layout/Header';
 import Footer from '@/components/layout/Footer';
 import Providers from '@/providers';
-
-const ibmPlexSansKR = IBM_Plex_Sans_KR({
-  weight: ['300', '400', '500', '600', '700'],
-  subsets: ['latin'],
-  display: 'swap',
-  variable: '--font-ibm-plex-sans-kr',
-});
 
 export async function generateStaticParams() {
   return languages.map((locale) => ({ locale }));
@@ -73,7 +65,7 @@ export default async function LocaleLayout({
   };
 
   return (
-    <html lang={locale} className={ibmPlexSansKR.variable}>
+    <html lang={locale}>
       <body className="min-h-screen bg-white font-sans antialiased">
         <Providers>
           <Header locale={locale} />
