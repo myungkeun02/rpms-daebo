@@ -65,8 +65,8 @@ export default function Header({ locale }: HeaderProps) {
                   <Image
                     src="/images/daeboLogo.png"
                     alt="DBCS"
-                    width={40}
-                    height={40}
+                    width={626}
+                    height={139}
                     className="h-8 w-auto transition-transform duration-200 group-hover:scale-105 lg:h-9"
                   />
                   <div className="flex flex-col">

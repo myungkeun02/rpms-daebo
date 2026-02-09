@@ -38,8 +38,8 @@ export default function Footer({ locale, translations }: FooterProps) {
               <Image
                 src="/images/daeboLogo.png"
                 alt="DBCS"
-                width={48}
-                height={48}
+                width={626}
+                height={139}
                 className="h-12 w-auto"
               />
               <div>
